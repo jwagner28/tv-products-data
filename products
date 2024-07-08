@@ -1,0 +1,191 @@
+[
+  {
+    "Brand": {
+      "Id": 1,
+      "Name": "Samsung"
+    },
+    "Products": [
+      {
+        "Id": "1A",
+        "BrandId": 1,
+        "ProductName": "Samsung VisionView TV",
+        "GraphicName": "tv.jpg",
+        "CostPrice": 200.00,
+        "MSRP": 300.00,
+        "QtyOnHand": 10,
+        "QtyOnBackOrder": 5,
+        "Description": "A great TV from Samsung with superb picture quality."
+      },
+      {
+        "Id": "2A",
+        "BrandId": 1,
+        "ProductName": "Samsung BrightBeam TV",
+        "GraphicName": "tv.jpg",
+        "CostPrice": 250.00,
+        "MSRP": 350.00,
+        "QtyOnHand": 8,
+        "QtyOnBackOrder": 3,
+        "Description": "A premium TV from Samsung with excellent features."
+      },
+      {
+        "Id": "3A",
+        "BrandId": 1,
+        "ProductName": "Samsung ClearVision TV",
+        "GraphicName": "tv.jpg",
+        "CostPrice": 300.00,
+        "MSRP": 400.00,
+        "QtyOnHand": 5,
+        "QtyOnBackOrder": 2,
+        "Description": "An ultra HD TV from Samsung with stunning visuals."
+      },
+      {
+        "Id": "4A",
+        "BrandId": 1,
+        "ProductName": "Samsung PureView TV",
+        "GraphicName": "tv.jpg",
+        "CostPrice": 180.00,
+        "MSRP": 280.00,
+        "QtyOnHand": 12,
+        "QtyOnBackOrder": 4,
+        "Description": "A budget-friendly TV from Samsung."
+      },
+      {
+        "Id": "5A",
+        "BrandId": 1,
+        "ProductName": "Samsung UltraStream TV",
+        "GraphicName": "tv.jpg",
+        "CostPrice": 220.00,
+        "MSRP": 320.00,
+        "QtyOnHand": 7,
+        "QtyOnBackOrder": 1,
+        "Description": "A mid-range TV from Samsung with good performance."
+      }
+    ]
+  },
+  {
+    "Brand": {
+      "Id": 2,
+      "Name": "LG"
+    },
+    "Products": [
+      {
+        "Id": "1B",
+        "BrandId": 2,
+        "ProductName": "LG ChromaView TV",
+        "GraphicName": "tv.jpg",
+        "CostPrice": 210.00,
+        "MSRP": 310.00,
+        "QtyOnHand": 9,
+        "QtyOnBackOrder": 3,
+        "Description": "A reliable TV from LG with clear picture quality."
+      },
+      {
+        "Id": "2B",
+        "BrandId": 2,
+        "ProductName": "LG Visionary TV",
+        "GraphicName": "tv.jpg",
+        "CostPrice": 260.00,
+        "MSRP": 360.00,
+        "QtyOnHand": 7,
+        "QtyOnBackOrder": 5,
+        "Description": "A high-end TV from LG with advanced features."
+      },
+      {
+        "Id": "3B",
+        "BrandId": 2,
+        "ProductName": "LG PixelPerfect TV",
+        "GraphicName": "tv.jpg",
+        "CostPrice": 310.00,
+        "MSRP": 410.00,
+        "QtyOnHand": 6,
+        "QtyOnBackOrder": 2,
+        "Description": "An excellent 4K TV from LG."
+      },
+      {
+        "Id": "4B",
+        "BrandId": 2,
+        "ProductName": "LG SmartView TV",
+        "GraphicName": "tv.jpg",
+        "CostPrice": 190.00,
+        "MSRP": 290.00,
+        "QtyOnHand": 11,
+        "QtyOnBackOrder": 3,
+        "Description": "A value-for-money TV from LG."
+      },
+      {
+        "Id": "5B",
+        "BrandId": 2,
+        "ProductName": "LG VisionPlus TV",
+        "GraphicName": "tv.jpg",
+        "CostPrice": 230.00,
+        "MSRP": 330.00,
+        "QtyOnHand": 8,
+        "QtyOnBackOrder": 2,
+        "Description": "A solid TV from LG with good features."
+      }
+    ]
+  },
+  {
+    "Brand": {
+      "Id": 3,
+      "Name": "Sony"
+    },
+    "Products": [
+      {
+        "Id": "1C",
+        "BrandId": 3,
+        "ProductName": "Sony ColourStream TV",
+        "GraphicName": "tv.jpg",
+        "CostPrice": 220.00,
+        "MSRP": 320.00,
+        "QtyOnHand": 10,
+        "QtyOnBackOrder": 4,
+        "Description": "A modern TV from Sony with sleek design."
+      },
+      {
+        "Id": "2C",
+        "BrandId": 3,
+        "ProductName": "Sony UltraEdge TV",
+        "GraphicName": "tv.jpg",
+        "CostPrice": 270.00,
+        "MSRP": 370.00,
+        "QtyOnHand": 8,
+        "QtyOnBackOrder": 1,
+        "Description": "A top-notch TV from Sony with great features."
+      },
+      {
+        "Id": "3C",
+        "BrandId": 3,
+        "ProductName": "Sony EcoView TV",
+        "GraphicName": "tv.jpg",
+        "CostPrice": 320.00,
+        "MSRP": 420.00,
+        "QtyOnHand": 5,
+        "QtyOnBackOrder": 3,
+        "Description": "An amazing 4K TV from Sony."
+      },
+      {
+        "Id": "4C",
+        "BrandId": 3,
+        "ProductName": "Sony ChromaGlow TV",
+        "GraphicName": "tv.jpg",
+        "CostPrice": 200.00,
+        "MSRP": 300.00,
+        "QtyOnHand": 12,
+        "QtyOnBackOrder": 2,
+        "Description": "A budget-friendly TV from Sony with good performance."
+      },
+      {
+        "Id": "5C",
+        "BrandId": 3,
+        "ProductName": "Sony ClearPixel TV",
+        "GraphicName": "tv.jpg",
+        "CostPrice": 240.00,
+        "MSRP": 340.00,
+        "QtyOnHand": 7,
+        "QtyOnBackOrder": 4,
+        "Description": "A reliable TV from Sony with excellent picture quality."
+      }
+    ]
+  }
+]
