@@ -1,191 +1,167 @@
 [
-  {
-    "Brand": {
-      "Id": 1,
-      "Name": "Samsung"
+    {
+        "PRODUCTNAME": "Samsung Smart TV 42\"",
+        "GRAPHICNAME": "Graphic_S1",
+        "COSTPRICE": "300",
+        "MSRP": "500",
+        "QTYONHAND": "50",
+        "QTYONBACKORDER": "5",
+        "DESC": "Samsung 42-inch Smart TV with 4K resolution and built-in streaming apps.",
+        "BRAND": "Samsung",
+        "ID": "S1"
     },
-    "Products": [
-      {
-        "Id": "1A",
-        "BrandId": 1,
-        "ProductName": "Samsung VisionView TV",
-        "GraphicName": "tv.jpg",
-        "CostPrice": 200.00,
-        "MSRP": 300.00,
-        "QtyOnHand": 10,
-        "QtyOnBackOrder": 5,
-        "Description": "A great TV from Samsung with superb picture quality."
-      },
-      {
-        "Id": "2A",
-        "BrandId": 1,
-        "ProductName": "Samsung BrightBeam TV",
-        "GraphicName": "tv.jpg",
-        "CostPrice": 250.00,
-        "MSRP": 350.00,
-        "QtyOnHand": 8,
-        "QtyOnBackOrder": 3,
-        "Description": "A premium TV from Samsung with excellent features."
-      },
-      {
-        "Id": "3A",
-        "BrandId": 1,
-        "ProductName": "Samsung ClearVision TV",
-        "GraphicName": "tv.jpg",
-        "CostPrice": 300.00,
-        "MSRP": 400.00,
-        "QtyOnHand": 5,
-        "QtyOnBackOrder": 2,
-        "Description": "An ultra HD TV from Samsung with stunning visuals."
-      },
-      {
-        "Id": "4A",
-        "BrandId": 1,
-        "ProductName": "Samsung PureView TV",
-        "GraphicName": "tv.jpg",
-        "CostPrice": 180.00,
-        "MSRP": 280.00,
-        "QtyOnHand": 12,
-        "QtyOnBackOrder": 4,
-        "Description": "A budget-friendly TV from Samsung."
-      },
-      {
-        "Id": "5A",
-        "BrandId": 1,
-        "ProductName": "Samsung UltraStream TV",
-        "GraphicName": "tv.jpg",
-        "CostPrice": 220.00,
-        "MSRP": 320.00,
-        "QtyOnHand": 7,
-        "QtyOnBackOrder": 1,
-        "Description": "A mid-range TV from Samsung with good performance."
-      }
-    ]
-  },
-  {
-    "Brand": {
-      "Id": 2,
-      "Name": "LG"
+    {
+        "PRODUCTNAME": "Samsung Curved TV 55\"",
+        "GRAPHICNAME": "Graphic_S2",
+        "COSTPRICE": "400",
+        "MSRP": "600",
+        "QTYONHAND": "30",
+        "QTYONBACKORDER": "3",
+        "DESC": "Samsung 55-inch Curved TV offering an immersive viewing experience with UHD display.",
+        "BRAND": "Samsung",
+        "ID": "S2"
     },
-    "Products": [
-      {
-        "Id": "1B",
-        "BrandId": 2,
-        "ProductName": "LG ChromaView TV",
-        "GraphicName": "tv.jpg",
-        "CostPrice": 210.00,
-        "MSRP": 310.00,
-        "QtyOnHand": 9,
-        "QtyOnBackOrder": 3,
-        "Description": "A reliable TV from LG with clear picture quality."
-      },
-      {
-        "Id": "2B",
-        "BrandId": 2,
-        "ProductName": "LG Visionary TV",
-        "GraphicName": "tv.jpg",
-        "CostPrice": 260.00,
-        "MSRP": 360.00,
-        "QtyOnHand": 7,
-        "QtyOnBackOrder": 5,
-        "Description": "A high-end TV from LG with advanced features."
-      },
-      {
-        "Id": "3B",
-        "BrandId": 2,
-        "ProductName": "LG PixelPerfect TV",
-        "GraphicName": "tv.jpg",
-        "CostPrice": 310.00,
-        "MSRP": 410.00,
-        "QtyOnHand": 6,
-        "QtyOnBackOrder": 2,
-        "Description": "An excellent 4K TV from LG."
-      },
-      {
-        "Id": "4B",
-        "BrandId": 2,
-        "ProductName": "LG SmartView TV",
-        "GraphicName": "tv.jpg",
-        "CostPrice": 190.00,
-        "MSRP": 290.00,
-        "QtyOnHand": 11,
-        "QtyOnBackOrder": 3,
-        "Description": "A value-for-money TV from LG."
-      },
-      {
-        "Id": "5B",
-        "BrandId": 2,
-        "ProductName": "LG VisionPlus TV",
-        "GraphicName": "tv.jpg",
-        "CostPrice": 230.00,
-        "MSRP": 330.00,
-        "QtyOnHand": 8,
-        "QtyOnBackOrder": 2,
-        "Description": "A solid TV from LG with good features."
-      }
-    ]
-  },
-  {
-    "Brand": {
-      "Id": 3,
-      "Name": "Sony"
+    {
+        "PRODUCTNAME": "Samsung QLED TV 65\"",
+        "GRAPHICNAME": "Graphic_S3",
+        "COSTPRICE": "500",
+        "MSRP": "700",
+        "QTYONHAND": "20",
+        "QTYONBACKORDER": "2",
+        "DESC": "Samsung 65-inch QLED TV with quantum dot technology for vibrant colors.",
+        "BRAND": "Samsung",
+        "ID": "S3"
     },
-    "Products": [
-      {
-        "Id": "1C",
-        "BrandId": 3,
-        "ProductName": "Sony ColourStream TV",
-        "GraphicName": "tv.jpg",
-        "CostPrice": 220.00,
-        "MSRP": 320.00,
-        "QtyOnHand": 10,
-        "QtyOnBackOrder": 4,
-        "Description": "A modern TV from Sony with sleek design."
-      },
-      {
-        "Id": "2C",
-        "BrandId": 3,
-        "ProductName": "Sony UltraEdge TV",
-        "GraphicName": "tv.jpg",
-        "CostPrice": 270.00,
-        "MSRP": 370.00,
-        "QtyOnHand": 8,
-        "QtyOnBackOrder": 1,
-        "Description": "A top-notch TV from Sony with great features."
-      },
-      {
-        "Id": "3C",
-        "BrandId": 3,
-        "ProductName": "Sony EcoView TV",
-        "GraphicName": "tv.jpg",
-        "CostPrice": 320.00,
-        "MSRP": 420.00,
-        "QtyOnHand": 5,
-        "QtyOnBackOrder": 3,
-        "Description": "An amazing 4K TV from Sony."
-      },
-      {
-        "Id": "4C",
-        "BrandId": 3,
-        "ProductName": "Sony ChromaGlow TV",
-        "GraphicName": "tv.jpg",
-        "CostPrice": 200.00,
-        "MSRP": 300.00,
-        "QtyOnHand": 12,
-        "QtyOnBackOrder": 2,
-        "Description": "A budget-friendly TV from Sony with good performance."
-      },
-      {
-        "Id": "5C",
-        "BrandId": 3,
-        "ProductName": "Sony ClearPixel TV",
-        "GraphicName": "tv.jpg",
-        "CostPrice": 240.00,
-        "MSRP": 340.00,
-        "QtyOnHand": 7,
-        "QtyOnBackOrder": 4,
-        "Description": "A reliable TV from Sony with excellent picture quality."
-      }
-    ]
-  }
+    {
+        "PRODUCTNAME": "Samsung Frame TV 50\"",
+        "GRAPHICNAME": "Graphic_S4",
+        "COSTPRICE": "600",
+        "MSRP": "800",
+        "QTYONHAND": "10",
+        "QTYONBACKORDER": "1",
+        "DESC": "Samsung 50-inch Frame TV designed to look like a picture frame with customizable bezels.",
+        "BRAND": "Samsung",
+        "ID": "S4"
+    },
+    {
+        "PRODUCTNAME": "Samsung LED TV 32\"",
+        "GRAPHICNAME": "Graphic_S5",
+        "COSTPRICE": "700",
+        "MSRP": "900",
+        "QTYONHAND": "5",
+        "QTYONBACKORDER": "0",
+        "DESC": "Samsung 32-inch LED TV, perfect for smaller rooms with full HD display.",
+        "BRAND": "Samsung",
+        "ID": "S5"
+    },
+    {
+        "PRODUCTNAME": "LG OLED TV 55\"",
+        "GRAPHICNAME": "Graphic_L1",
+        "COSTPRICE": "350",
+        "MSRP": "550",
+        "QTYONHAND": "60",
+        "QTYONBACKORDER": "6",
+        "DESC": "LG 55-inch OLED TV with perfect black and infinite contrast for lifelike images.",
+        "BRAND": "LG",
+        "ID": "L1"
+    },
+    {
+        "PRODUCTNAME": "LG NanoCell TV 65\"",
+        "GRAPHICNAME": "Graphic_L2",
+        "COSTPRICE": "450",
+        "MSRP": "650",
+        "QTYONHAND": "40",
+        "QTYONBACKORDER": "4",
+        "DESC": "LG 65-inch NanoCell TV with advanced color enhancement and UHD display.",
+        "BRAND": "LG",
+        "ID": "L2"
+    },
+    {
+        "PRODUCTNAME": "LG Ultra HD TV 70\"",
+        "GRAPHICNAME": "Graphic_L3",
+        "COSTPRICE": "550",
+        "MSRP": "750",
+        "QTYONHAND": "25",
+        "QTYONBACKORDER": "2",
+        "DESC": "LG 70-inch Ultra HD TV with AI ThinQ for smart control and 4K resolution.",
+        "BRAND": "LG",
+        "ID": "L3"
+    },
+    {
+        "PRODUCTNAME": "LG Smart TV 43\"",
+        "GRAPHICNAME": "Graphic_L4",
+        "COSTPRICE": "650",
+        "MSRP": "850",
+        "QTYONHAND": "15",
+        "QTYONBACKORDER": "1",
+        "DESC": "LG 43-inch Smart TV with webOS platform and access to popular streaming services.",
+        "BRAND": "LG",
+        "ID": "L4"
+    },
+    {
+        "PRODUCTNAME": "LG 4K TV 50\"",
+        "GRAPHICNAME": "Graphic_L5",
+        "COSTPRICE": "750",
+        "MSRP": "950",
+        "QTYONHAND": "10",
+        "QTYONBACKORDER": "0",
+        "DESC": "LG 50-inch 4K TV with HDR support and immersive sound quality.",
+        "BRAND": "LG",
+        "ID": "L5"
+    },
+    {
+        "PRODUCTNAME": "Sony Bravia 4K TV 55\"",
+        "GRAPHICNAME": "Graphic_SN1",
+        "COSTPRICE": "400",
+        "MSRP": "600",
+        "QTYONHAND": "45",
+        "QTYONBACKORDER": "4",
+        "DESC": "Sony 55-inch Bravia 4K TV with X-Reality PRO and Android TV.",
+        "BRAND": "Sony",
+        "ID": "SN1"
+    },
+    {
+        "PRODUCTNAME": "Sony OLED TV 65\"",
+        "GRAPHICNAME": "Graphic_SN2",
+        "COSTPRICE": "500",
+        "MSRP": "700",
+        "QTYONHAND": "35",
+        "QTYONBACKORDER": "3",
+        "DESC": "Sony 65-inch OLED TV with Acoustic Surface Audio and stunning visuals.",
+        "BRAND": "Sony",
+        "ID": "SN2"
+    },
+    {
+        "PRODUCTNAME": "Sony LED TV 50\"",
+        "GRAPHICNAME": "Graphic_SN3",
+        "COSTPRICE": "600",
+        "MSRP": "800",
+        "QTYONHAND": "20",
+        "QTYONBACKORDER": "2",
+        "DESC": "Sony 50-inch LED TV with Motionflow XR for smooth and clear picture quality.",
+        "BRAND": "Sony",
+        "ID": "SN3"
+    },
+    {
+        "PRODUCTNAME": "Sony Smart TV 43\"",
+        "GRAPHICNAME": "Graphic_SN4",
+        "COSTPRICE": "700",
+        "MSRP": "900",
+        "QTYONHAND": "15",
+        "QTYONBACKORDER": "1",
+        "DESC": "Sony 43-inch Smart TV with Google Assistant and built-in Chromecast.",
+        "BRAND": "Sony",
+        "ID": "SN4"
+    },
+    {
+        "PRODUCTNAME": "Sony 8K TV 75\"",
+        "GRAPHICNAME": "Graphic_SN5",
+        "COSTPRICE": "800",
+        "MSRP": "1000",
+        "QTYONHAND": "5",
+        "QTYONBACKORDER": "0",
+        "DESC": "Sony 75-inch 8K TV with ultra-high resolution and advanced image processing.",
+        "BRAND": "Sony",
+        "ID": "SN5"
+    }
 ]
